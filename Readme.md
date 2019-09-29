@@ -51,7 +51,7 @@ from PIL import Image
    
    网络结构
    
-   <img src="/Users/pluto/Desktop/屏幕快照 2019-09-27 下午3.24.43.png" style="zoom:50%;" />
+   <img src="/屏幕快照 2019-09-27 下午3.24.43.png" style="zoom:50%;" />
    
    ![](https://tva1.sinaimg.cn/large/006y8mN6gy1g7e413ubr2j30d207o759.jpg)
    
